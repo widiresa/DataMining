@@ -1,0 +1,11 @@
+Jenis Buah,Jumlah,Harga,Penjualan
+Anggur,30,45000,No
+Apel,70,45000,Yes
+Semangka,40,65000,No
+Pisang,50,60000,No
+Apel,60,,Yes
+Pisang,45,60000,Yes
+Semangka,,55000,No
+Anggur,65,80000,Yes
+Pisang,50,80000,No
+Apel,45,70000,Yes
